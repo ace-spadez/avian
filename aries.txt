@@ -4,3 +4,4 @@ this is my first edit.
 this is my first branch.
 this is my second branch.
 this will diverge from master
+this will continue in master.
