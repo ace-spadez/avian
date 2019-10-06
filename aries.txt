@@ -3,6 +3,7 @@ this is my first public repo.
 this is my first edit.
 this is my first branch.
 this is my second branch.
+this will diverge from master
 this will continue in master.
 this is my final goodbye.
 i'm back in my master. 
